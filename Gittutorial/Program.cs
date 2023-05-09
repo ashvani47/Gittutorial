@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!"); Console.WriteLine("Hello, C3 Academy! one more modification!");
+﻿void MyfirstMethod()
+{
+    // Do Something
+}
+
+void MySecondMethod()
+{
+    // Do Something
+}
+
+void MythirdMethod()
+{
+    // Do Something
+}
